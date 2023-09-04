@@ -1,0 +1,11 @@
+OpenJDK -> gratis
+
+Que se usa:
+Spring framework
+Spring boot
+spring Data JPA
+Spring Security
+
+-----
+*aplicaciones autocontenidas -
+* tomcat - jetti
